@@ -1,0 +1,15 @@
+<html>
+<script language="JavaScript">
+var ct= 0;
+var firstnum = "0";  
+var average = 0;
+while (firstnum != "000")
+{
+firstnum=prompt("Enter a number to be averaged.If you'd like to stop and average what you have, hit 000.",0);
+average=parseFloat(firstnum) + parseFloat(average);
+
+ct= ct + 1;
+}
+document.write("The average of all scores is:",+ average / ct);
+</script>
+</html>
