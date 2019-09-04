@@ -1,0 +1,16 @@
+
+<html>
+<script language="JavaScript">
+var ans = 0;
+var ans1 = 0;
+var ans2 = 0;
+var firstnum = 0;
+var secondnum = 0;
+var thirdnum = 0;
+firstnum=prompt("What is your homework grade?",0);
+secondnum=prompt("whats your responsibility grade?",0);
+thirdnum=prompt("final grade?",0);
+ans = parseFloat(firstnum * .75)+parseFloat(secondnum * .10)+parseFloat(thirdnum * .15);
+document.write("Your grade is  ", ans);
+</script>
+</html>
