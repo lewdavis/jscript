@@ -1,0 +1,84 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introduction</title>
+<style type="text/css">
+body
+	{
+	background-color: beige;
+	color: blue;
+	}
+h1
+	{
+	color:black;
+	text-align:center;
+  }
+h2
+	{	
+		color: blue;
+	text-align:center;
+	}
+p
+	{
+	text-align: center;
+	font-size: 2em;   
+	}
+p  
+	{
+	text-align: center;
+	font-size: 2em;   
+	} 	
+li
+	{
+	color: green;
+	}
+img
+    {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+</style
+
+</head>
+<body>
+<h1> Red lantern Lewgle is here</h1>
+<p>My nickname is Lewgle, and I am a computer programming major.</p> <br>
+<img src="lewgle.jpeg"><br>
+<h2> My plan to improve my learning and time management </h2>
+<p> I'm excited at the fact that school is now here! I think my biggest flaw is I get over-whelmed easily. So I've made it a point to see the small goals, and use those as a way to work harder towards becoming more successful. Hopefully, I'll adjust my learning style to be more well rounded, but since I'm a musician, it should be a fun challenge to learn better beyond just Aurally. </p>
+<ol>
+<li> I'm really excited to begin learning again due to being the first one in my family to pursue a degree. </li>
+<li> It's great to challenge myself to learn in different ways. As a musician, I feel I am more easily ready to adapt to different learning styles.I've been a full-time musician since 2013 and prior to that have been a supervisor in retail, and a cook.</li>
+<li> I came to BCC to have the freedom to learn, but also push myself in a major that I really feel can help every aspect of my life.</Li>
+</ol>
+My goals as a musician and as a person have led me to BCC. Here's a lot of the music I compose. <br>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/41091321&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<ul>
+<li> My goals after BCC are to start my own buisness where I can help others organize their buisnesses and have my own doing instrument related repairs including pedal repairs, amp repairs, software mods, and so on. </li>
+<li> I choose Computer Programming because I felt that it could helpw ith any future endevor I chose. </li>
+<li> I'd like to become a better time organzier and sinch starting here, I've realized I'm going to need to have priorities, and windows based on how I perform and remember things. </Li>
+</ul>
+<H3> My first Javascript assignment </h3>
+<ul>
+<li> Problem 1 <a href="http://cisweb.bristolcc.edu/~ldavis26/problem1.html">here</a></li>
+<li> Problem 2 <a href="http://cisweb.bristolcc.edu/~ldavis26/problem2.html">here</a></li>
+<li> Problem 3 <a href="http://cisweb.bristolcc.edu/~ldavis26/problem3.html">here</a></li>
+<li> Problem 4 <a href="http://cisweb.bristolcc.edu/~ldavis26/problem4.html">here</a></li>
+<li> Problem 5 <a href="http://cisweb.bristolcc.edu/~ldavis26/Problem 5 (1).html">here</a></li>
+</ul>
+<h4> My second Javascipt assignment </h4>
+<ul>
+<li>Problem 1 <a href="http://cisweb.bristolcc.edu/~ldavis26/java2 num1.html">here</a></li>
+<li>Problem 2 <a href="http://cisweb.bristolcc.edu/~ldavis26/Java2 problem 2.html">here</a></li>
+<li>Problem 3 <a href="http://cisweb.bristolcc.edu/~ldavis26/Java2 problem 3.html">here</a></li>
+<li>Problem 4 <a href="http://cisweb.bristolcc.edu/~ldavis26/Java2 4.html">here</a></li>
+<li>Problem 5 <a href="http://cisweb.bristolcc.edu/~ldavis26/Java2 problem 5.html">here</a></li>
+</ul>
+<h4> My First Access Assignment (Be Gentle!)
+<ul>
+<li> Database table <a href="http://cisweb.bristolcc.edu/~ldavis26/accessdatabasessproject1.accdb
+">here</a></li> 
+</body>
+</html>
